@@ -1,5 +1,11 @@
 # svelte
 
+## 5.0.0-next.206
+
+### Patch Changes
+
+- fix: allow nested `<dt>`/`<dd>` elements if they are within a `<dl>` element ([#12681](https://github.com/sveltejs/svelte/pull/12681))
+
 ## 5.0.0-next.205
 
 ### Patch Changes
